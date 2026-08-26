@@ -17,6 +17,7 @@ The company currently orders inventory on a standard monthly schedule. This crea
 * **Optimized Annual Cost:** $152,845.01
 * **Total Savings:** $539,297.35
 <img width="789" height="590" alt="image" src="https://github.com/user-attachments/assets/1198b96f-2861-4bdf-9641-2f516a0ded7d" />
+<img width="1867" height="306" alt="image" src="https://github.com/user-attachments/assets/ffab6d5e-5b72-467c-b617-6065f96d0406" />
 
 ## Technical Skills Demonstrated
 * Data Wrangling & Aggregation (`pandas`)
