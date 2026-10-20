@@ -1,7 +1,7 @@
 # Retail Inventory Optimization: ABC Analysis & EOQ Modeling
 
 ## Executive Summary
-This project applies Operations Research methodologies to raw retail transaction data to optimize inventory management. By conducting an ABC (Pareto) analysis and applying the Economic Order Quantity (EOQ) model, this project simulated a **77.92%** reduction in annual inventory costs ($539,297.35 in savings) while drastically reducing the procurement team's administrative workload.
+This project applies Operational Research methodologies to raw retail transaction data to optimize inventory management. By conducting an ABC (Pareto) analysis and applying the Economic Order Quantity (EOQ) model, this project simulated a **77.92%** reduction in annual inventory costs ($539,297.35 in savings) while drastically reducing the procurement team's administrative workload.
 
 ## Business Problem
 The company currently orders inventory on a standard monthly schedule (12 orders/year per SKU). This creates dual inefficiencies: ordering low-volume items too frequently (incurring unnecessary administrative and shipping costs) and ordering high-volume items in suboptimal batches (incurring excess holding costs).
